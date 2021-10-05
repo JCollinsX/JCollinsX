@@ -24,11 +24,13 @@ Hi, I'm JensonCollins, a Senior Smart Contract Engineer 🚀, currently, I have 
 - Online Resume: [Resume](https://resume.io/r/XdDfIpJoD)
 - Phone Number: +81 50-5532-8538
 
-**Languages and Tools:**   
+**Languages, Tools and Interest:**   
 
+ - Ethereum / Solana / BSC / Polygon / Cardano / Moonbeam / Bitcoin
  - Smart Contract Development / Testing / Auditing
- - Solidity
- - Rust
+ - ERC 20 / ERC 777 / ERC 721 / ERC 1155 / EIP 2612
+ - Solidity & Rust
+ - Metaplex (NFT marketplace)
  - Hardhat / Truffle / Openzeppelin
  - Web3.js / Ether.js
  - React.js / Vue.js
