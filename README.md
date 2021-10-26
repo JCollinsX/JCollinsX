@@ -12,7 +12,7 @@ Hi, I'm JensonCollins, a Senior Smart Contract Engineer 🚀, currently, I have 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I had worked in some blockchain companies like Solanart, Solanium, SamuraiRisingSun etc
+- 👨🏽‍💻 I had worked in some blockchain companies like TokenMinds, Solanart, Solanium, SamuraiRisingSun etc
 - 🌱 My proud of skills are Solidity and Rust.
 - 📫 Ask me about anything, I am happy to help
 
