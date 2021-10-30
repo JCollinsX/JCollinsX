@@ -36,7 +36,7 @@ Hi, I'm JensonCollins, a Senior Smart Contract Engineer 🚀, currently, I have 
  - React.js / Vue.js
  - Source Control
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=JensonCollins&show_icons=true&theme=radical)
+![Jenson's github stats](https://github-readme-stats.vercel.app/api?username=JensonCollins&show_icons=true&theme=radical)
 
 
 ⭐️ From [JensonCollins](https://github.com/JensonCollins)
