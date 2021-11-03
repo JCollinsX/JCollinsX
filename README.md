@@ -32,8 +32,9 @@ Hi, I'm JensonCollins, a Senior Smart Contract Engineer 🚀, currently, I have 
  - Solidity & Rust
  - Metaplex (NFT marketplace)
  - Hardhat / Truffle / Openzeppelin
- - Web3.js / Ether.js
- - React.js / Vue.js
+ - Anchor / Cargo
+ - Web3.js / Ether.js / Solana-web3
+ - Next.js / React.js / Vue.js
  - Source Control
 
 ![Jenson's github stats](https://github-readme-stats.vercel.app/api?username=JensonCollins&show_icons=true&theme=radical)
