@@ -1,7 +1,7 @@
 **Connect with me:**
-- Private Website: [Website](https://flowcv.me/jenson-collins)
-- 💬 Telegram : [@JensonCollins](https://t.me/JensonCollins)
-- 📝 Email : jenson.collins@hotmail.com
+- Private Website: [Website](https://nonfungiblejc.pro)
+- 💬 Telegram : [@JensonCollins](https://t.me/NonFungibleJC)
+- 📝 Email : nonfungiblejc@gmail.com
 - LinkedIn: [LinkedIn](https://linkedin.com/in/jenson-collins-0918)
 - Online Resume: [Resume](https://resume.io/r/XdDfIpJoD)
 - Phone Number: +81 50-5532-8538
