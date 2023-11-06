@@ -1,9 +1,5 @@
 <div style="display: flex;">
 
-<div style="flex: 1;">
-<a href="https://app.daily.dev/nonfungiblejc"><img src="https://api.daily.dev/devcards/2dada010ef864fccb16dddfbd3935174.png?r=79d" width="400" alt="Jenson Collins's Dev Card"/></a>
-</div>
-
 <div style="flex: 1; flex-direction: column;">
 
 - Private Website: [Website](https://nonfungiblejc.pro)
@@ -17,4 +13,9 @@
 
 ⭐️ From [JensonCollins](https://github.com/JensonCollins)
 </div>
+
+<div style="flex: 1;">
+<a href="https://app.daily.dev/nonfungiblejc"><img src="https://api.daily.dev/devcards/2dada010ef864fccb16dddfbd3935174.png?r=79d" width="400" alt="Jenson Collins's Dev Card"/></a>
+</div>
+
 </div>
