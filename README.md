@@ -2,7 +2,7 @@
 
 <div style="flex: 1; flex-direction: column;">
 
-- Private Website: [Website](https://nonfungiblejc.pro)
+- Portfolio Website: [Website](https://nonfungiblejc.pro)
 - 💬 Telegram : [@JensonCollins](https://t.me/NonFungibleJC)
 - 📝 Email : nonfungiblejc@gmail.com
 - LinkedIn: [LinkedIn](https://linkedin.com/in/jenson-collins-0918)
