@@ -3,7 +3,7 @@
 <div style="flex: 1; flex-direction: column;">
 
 - Portfolio Website: [Website](https://nonfungiblejc.pro)
-- 💬 Telegram : [@JensonCollins](https://t.me/NonFungibleJC)
+- 💬 Telegram : [@NonFungibleJC](https://t.me/NonFungibleJC)
 - 📝 Email : nonfungiblejc@gmail.com
 - LinkedIn: [LinkedIn](https://linkedin.com/in/jenson-collins-0918)
 - Online Resume: [Resume](https://resume.io/r/XdDfIpJoD)
